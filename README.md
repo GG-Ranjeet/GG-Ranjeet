@@ -26,7 +26,6 @@ Welcome to my GitHub profile! I am passionate about building software, learning 
 ---
 
 ## 🛠️ My Tech Stack
-*(Tip: You can customize these placeholders with your actual favorite tools!)*
 - **Languages:** JavaScript, Python, Java, C++
 - **Frameworks/Libraries:** React, Node.js, Express
 - **Tools & Platforms:** Git, GitHub, VS Code, Linux
